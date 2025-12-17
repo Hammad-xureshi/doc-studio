@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+PyPDF2
+python-docx
+openpyxl
+python-pptx
+chromadb
+pandas
+plotly
+python-dotenv

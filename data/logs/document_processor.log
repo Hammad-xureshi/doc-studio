@@ -1,0 +1,621 @@
+2025-12-03 23:08:32,130 - DocProcessor - WARNING - OCR not available. Install pytesseract and pdf2image for OCR support.
+2025-12-03 23:08:32,131 - DocProcessor - INFO - UltimateDocumentProcessor initialized
+2025-12-03 23:09:01,808 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-12-03 23:09:01,815 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+2025-12-03 23:09:01,816 - DocProcessor - INFO - EnhancedVectorStore initialized
+2025-12-03 23:09:01,817 - DocProcessor - INFO - EnhancedAIAssistant initialized with model: gemini-2.0-flash
+2025-12-03 23:09:22,665 - DocProcessor - ERROR - Embedding failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0 [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerProjectPerModel-FreeTier"
+}
+]
+2025-12-03 23:09:22,666 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+2025-12-03 23:09:50,446 - DocProcessor - ERROR - Embedding failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0 [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerProjectPerModel-FreeTier"
+}
+]
+2025-12-03 23:11:29,164 - DocProcessor - ERROR - Embedding failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0 [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerProjectPerModel-FreeTier"
+}
+]
+2025-12-03 23:11:45,707 - DocProcessor - ERROR - Embedding failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0 [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerProjectPerModel-FreeTier"
+}
+]
+2025-12-03 23:12:24,646 - DocProcessor - ERROR - Embedding failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0 [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerProjectPerModel-FreeTier"
+}
+]
+2025-12-03 23:12:55,390 - DocProcessor - ERROR - Embedding failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0 [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerProjectPerModel-FreeTier"
+}
+]
+2025-12-03 23:14:38,803 - DocProcessor - WARNING - OCR not available. Install pytesseract and pdf2image for OCR support.
+2025-12-03 23:14:38,807 - DocProcessor - INFO - UltimateDocumentProcessor initialized
+2025-12-18 02:20:07,618 - DocProcessor - WARNING - OCR not available. Install pytesseract and pdf2image for OCR support.
+2025-12-18 02:20:07,618 - DocProcessor - INFO - UltimateDocumentProcessor initialized
+2025-12-18 02:20:29,796 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-12-18 02:20:29,802 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+2025-12-18 02:20:29,802 - DocProcessor - INFO - EnhancedVectorStore initialized
+2025-12-18 02:20:29,802 - DocProcessor - INFO - EnhancedAIAssistant initialized with model: gemini-2.5-flash
+2025-12-18 02:21:17,393 - DocProcessor - INFO - Processing Communication Skills.pdf (.pdf)
+2025-12-18 02:21:19,052 - DocProcessor - INFO - Created 0 semantic chunks from document
+2025-12-18 02:21:19,052 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,053 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,053 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,056 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,056 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,059 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,059 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,059 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,062 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,062 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,062 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,065 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,065 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,065 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,068 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,068 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,068 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,070 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,070 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,072 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,072 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,075 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,075 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,075 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,078 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,078 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,081 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,081 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,082 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,083 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,083 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,083 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,085 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,085 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,085 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,085 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,088 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,088 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,088 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,092 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,092 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,093 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,093 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,095 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,096 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,096 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,096 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,099 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,099 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,099 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,101 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,102 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,103 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,104 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,104 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,104 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,107 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,107 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,109 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,109 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,109 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,112 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,112 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,112 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,115 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,115 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,116 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,116 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,118 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,118 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:19,137 - DocProcessor - INFO - Successfully processed Communication Skills.pdf in 1.76s
+2025-12-18 02:21:31,683 - DocProcessor - INFO - Using cached result for Communication Skills.pdf
+2025-12-18 02:21:31,720 - DocProcessor - INFO - Using cached result for Communication Skills.pdf
+2025-12-18 02:21:33,779 - DocProcessor - INFO - Using cached result for Communication Skills.pdf
+2025-12-18 02:21:44,782 - DocProcessor - INFO - Processing Non-Verbal-Communication main.pptx (.pptx)
+2025-12-18 02:21:45,137 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:45,138 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:45,138 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:45,140 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:45,142 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:45,142 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:45,142 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:45,142 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:45,142 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:45,145 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:21:45,145 - DocProcessor - INFO - Created 0 semantic chunks from document
+2025-12-18 02:21:45,145 - DocProcessor - INFO - Created 0 semantic chunks from document
+2025-12-18 02:21:45,151 - DocProcessor - INFO - Successfully processed Non-Verbal-Communication main.pptx in 0.53s
+2025-12-18 02:22:13,117 - DocProcessor - INFO - Using cached result for Non-Verbal-Communication main.pptx
+2025-12-18 02:22:20,388 - DocProcessor - INFO - Using cached result for Non-Verbal-Communication main.pptx
+2025-12-18 02:22:23,588 - DocProcessor - INFO - Using cached result for Non-Verbal-Communication main.pptx
+2025-12-18 02:22:24,432 - DocProcessor - INFO - Using cached result for Non-Verbal-Communication main.pptx
+2025-12-18 02:22:24,560 - DocProcessor - ERROR - Embedding failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0, model: embedding-001
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0, model: embedding-001
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0, model: embedding-001
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0, model: embedding-001
+Please retry in 34.687229857s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "embedding-001"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "embedding-001"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerUserPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "embedding-001"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerUserPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "embedding-001"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 34
+}
+]
+2025-12-18 02:22:24,560 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+2025-12-18 02:22:24,648 - DocProcessor - ERROR - Embedding failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0, model: embedding-001
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0, model: embedding-001
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0, model: embedding-001
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0, model: embedding-001
+Please retry in 34.595502202s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "embedding-001"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerUserPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "embedding-001"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerUserPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "embedding-001"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "embedding-001"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 34
+}
+]
+2025-12-18 02:22:31,259 - DocProcessor - INFO - Using cached result for Non-Verbal-Communication main.pptx
+2025-12-18 02:22:58,387 - DocProcessor - INFO - Using cached result for Non-Verbal-Communication main.pptx
+2025-12-18 02:23:02,058 - DocProcessor - INFO - Using cached result for Non-Verbal-Communication main.pptx
+2025-12-18 02:23:02,402 - DocProcessor - INFO - Using cached result for Non-Verbal-Communication main.pptx
+2025-12-18 02:23:02,610 - DocProcessor - ERROR - Embedding failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0, model: embedding-001
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0, model: embedding-001
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0, model: embedding-001
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0, model: embedding-001
+Please retry in 56.621150515s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "embedding-001"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerUserPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "embedding-001"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerUserPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "embedding-001"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "embedding-001"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 56
+}
+]
+2025-12-18 02:23:07,691 - DocProcessor - INFO - Using cached result for Non-Verbal-Communication main.pptx
+2025-12-18 02:23:35,762 - DocProcessor - INFO - Using cached result for Non-Verbal-Communication main.pptx
+2025-12-18 02:23:37,500 - DocProcessor - INFO - Processing Non-Verbal-Communication main.pptx (.pptx)
+2025-12-18 02:23:37,803 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:23:37,803 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:23:37,806 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:23:37,806 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:23:37,809 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:23:37,809 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:23:37,811 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:23:37,812 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:23:37,814 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:23:37,814 - DocProcessor - INFO - Created 1 semantic chunks from document
+2025-12-18 02:23:37,814 - DocProcessor - INFO - Created 0 semantic chunks from document
+2025-12-18 02:23:37,817 - DocProcessor - INFO - Created 0 semantic chunks from document
+2025-12-18 02:23:37,823 - DocProcessor - INFO - Successfully processed Non-Verbal-Communication main.pptx in 0.47s
+2025-12-18 02:23:37,975 - DocProcessor - INFO - Using cached result for Non-Verbal-Communication main.pptx
+2025-12-18 02:23:38,285 - DocProcessor - ERROR - Embedding failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0, model: embedding-001
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0, model: embedding-001
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0, model: embedding-001
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0, model: embedding-001
+Please retry in 21.046665696s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "embedding-001"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerUserPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "embedding-001"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerUserPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "embedding-001"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "embedding-001"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 21
+}
+]
+2025-12-18 02:23:46,169 - DocProcessor - INFO - Using cached result for Non-Verbal-Communication main.pptx
+2025-12-18 02:28:36,616 - DocProcessor - WARNING - OCR not available. Install pytesseract and pdf2image for OCR support.
+2025-12-18 02:28:36,616 - DocProcessor - INFO - UltimateDocumentProcessor initialized
+2025-12-18 02:28:47,335 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-12-18 02:28:47,342 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+2025-12-18 02:28:47,351 - DocProcessor - INFO - EnhancedVectorStore initialized
+2025-12-18 02:28:47,351 - DocProcessor - INFO - EnhancedAIAssistant initialized with model: gemini-2.5-flash
+2025-12-18 02:29:05,660 - DocProcessor - INFO - Using cached result for Non-Verbal-Communication main.pptx
+2025-12-18 02:30:11,664 - DocProcessor - WARNING - OCR not available. Install pytesseract and pdf2image for OCR support.
+2025-12-18 02:30:11,664 - DocProcessor - INFO - UltimateDocumentProcessor initialized
+2025-12-18 02:30:34,483 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-12-18 02:30:34,496 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+2025-12-18 02:30:34,498 - DocProcessor - INFO - EnhancedVectorStore initialized
+2025-12-18 02:30:34,499 - DocProcessor - INFO - EnhancedAIAssistant initialized with model: gemini-2.5-flash
+2025-12-18 02:30:41,752 - DocProcessor - INFO - Using cached result for Non-Verbal-Communication main.pptx
+2025-12-18 02:32:05,028 - DocProcessor - WARNING - OCR not available. Install pytesseract and pdf2image for OCR support.
+2025-12-18 02:32:05,028 - DocProcessor - INFO - UltimateDocumentProcessor initialized
+2025-12-18 02:32:17,836 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-12-18 02:32:17,845 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+2025-12-18 02:32:17,845 - DocProcessor - INFO - EnhancedVectorStore initialized
+2025-12-18 02:32:17,849 - DocProcessor - INFO - EnhancedAIAssistant initialized with model: gemini-2.5-flash
+2025-12-18 02:32:32,209 - DocProcessor - INFO - Processing AI.pdf (.pdf)
+2025-12-18 02:32:32,279 - DocProcessor - INFO - Successfully processed AI.pdf in 0.89s
+2025-12-18 02:33:10,515 - DocProcessor - WARNING - OCR not available. Install pytesseract and pdf2image for OCR support.
+2025-12-18 02:33:10,516 - DocProcessor - INFO - UltimateDocumentProcessor initialized
+2025-12-18 02:33:23,316 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-12-18 02:33:23,326 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+2025-12-18 02:33:23,328 - DocProcessor - INFO - EnhancedVectorStore initialized
+2025-12-18 02:33:23,329 - DocProcessor - INFO - EnhancedAIAssistant initialized with model: gemini-2.5-flash
+2025-12-18 02:33:34,012 - DocProcessor - INFO - Using cached result for AI.pdf
+2025-12-18 02:33:41,552 - DocProcessor - INFO - Using cached result for AI.pdf
+2025-12-18 02:33:47,036 - DocProcessor - INFO - Using cached result for AI.pdf
+2025-12-18 02:33:48,257 - DocProcessor - INFO - Using cached result for AI.pdf
+2025-12-18 02:33:49,352 - DocProcessor - INFO - Using cached result for AI.pdf
+2025-12-18 02:33:50,334 - DocProcessor - ERROR - Embedding failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0, model: embedding-001
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0, model: embedding-001
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0, model: embedding-001
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0, model: embedding-001
+Please retry in 8.960231892s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "embedding-001"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerUserPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "embedding-001"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerUserPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "embedding-001"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "embedding-001"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 8
+}
+]
+2025-12-18 02:33:55,202 - DocProcessor - INFO - Using cached result for AI.pdf
